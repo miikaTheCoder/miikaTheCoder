@@ -21,9 +21,9 @@ Gone are the days of over-engineering. These days I'm all about:
 
 ---
 
-## 🔒 Current Project: secure-vibe
+## 🔒 Current Project: [secure-vibe](https://github.com/miikaTheCoder/secure-vibe)
 
-Building something spicy - an MCP server that hunts vulnerabilities **before** you ship. Think of it as your security co-pilot that catches the oopsies before they hit production. Still in stealth mode, but it's gonna be good.
+Building something spicy - an MCP server that hunts vulnerabilities **before** you ship. Think of it as your security co-pilot that catches the oopsies before they hit production.
 
 ---
 
