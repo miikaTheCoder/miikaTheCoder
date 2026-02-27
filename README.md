@@ -42,12 +42,6 @@ Building something spicy - an MCP server that hunts vulnerabilities **before** y
 
 ---
 
-## 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
