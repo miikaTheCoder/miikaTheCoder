@@ -16,14 +16,14 @@ Gone are the days of over-engineering. These days I'm all about:
 
 - 🎯 **Vibe coding** - prompting my way to production
 - ⚡ **Ship fast, fix later** - done is better than perfect
-- 🤖 **AI-powered workflows** - Cursor, Claude, ChatGPT - I use 'em all
+- 🤖 **AI-powered workflows** - mostly ChatGPT, sometimes Chinese models
 - 🛠️ **No-code when possible** - why build when you can integrate?
 
 ---
 
-## 🔒 Current Project: [secure-vibe](https://github.com/miikaTheCoder/secure-vibe)
+## 🔒 Current Project: [Era-Life-Community](https://github.com/miikaTheCoder/Era-Life-Community)
 
-Building something spicy - an MCP server that hunts vulnerabilities **before** you ship. Think of it as your security co-pilot that catches the oopsies before they hit production.
+Building Era-Life-Community - a reconstructed Godot life-simulation game where every choice shapes your story.
 
 ---
 
